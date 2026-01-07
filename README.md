@@ -15,23 +15,17 @@ I am an analyst/technologist with experience in data ingestion, anomaly detectio
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Zach-Rehrman/AD-Splunk-Attack-Detection">AD/Splunk Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill | <a href="https://github.com/Zach-Rehrman/Flare-VM-Malware-Analysis-Lab">Malware Analysis Lab</a>|
+| Skill         | SOC Automation Lab|
+| Skill      | SOC Automation Lab|
+| Skill                  | SOC Automation Lab|
+| Skill | SOC Automation Lab|
 
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
@@ -48,3 +42,4 @@ I am an analyst/technologist with experience in data ingestion, anomaly detectio
 
 ## Projects
 - <a href="https://github.com/Zach-Rehrman/AD-Splunk-Attack-Detection">AD/Splunk Detection Lab</a>
+- <a href="https://github.com/Zach-Rehrman/Flare-VM-Malware-Analysis-Lab">Malware Analysis Lab</a>
