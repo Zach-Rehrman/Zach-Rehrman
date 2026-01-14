@@ -11,7 +11,7 @@ I am an analyst/technologist with experience in enterprise data ingestion, anoma
 - Continuously learn through certifications, CTFs, and hands on experimentation
 
 
-## Skills
+## Skills (In Progress)
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
