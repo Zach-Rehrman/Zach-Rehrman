@@ -5,7 +5,7 @@ I am an analyst/technologist with experience in enterprise data ingestion, anoma
 
 ## Objective
 
-- Transition into a cybersecurity role specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst
+- Transition into a cybersecurity role specifically aiming to join a Security Operations Center (SOC) as a Tier 1/Junior Analyst
 - Strengthen skills in network security, log analysis, and threat detection
 - Apply automation and scripting to improve security monitoring and investigation workflows
 - Continuously learn through certifications, CTFs, and hands on experimentation
